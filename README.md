@@ -52,6 +52,7 @@ O plano completo contempla:
 📦 desafio-dio-roteiro-de-carreira
  ┣ 📄 README.md
  ┣ 📄 Roadmap_180_Dias_Especialista_Qualidade_IA.pdf
+ ┣ 📄 Perfil_profissional_com_melhores_opcoes_de_carreiras.pdf
 ```
 
 ---
